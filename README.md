@@ -2,7 +2,9 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/madhavisolanki-ui/Smart-LLM-Cache?style=social)](https://github.com/madhavisolanki-ui/Smart-LLM-Cache/stargazers)
+[![Stars](https://img.shields.io/badge/stars-1_Star-darkpink)](https://github.com/madhavisolanki-ui/Smart-LLM-Cache/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/madhavisolanki-ui/Smart-LLM-Cache?style=social)](https://github.com/madhavisolanki-ui/Smart-LLM-Cache/network)
+
 
 **Reduce LLM inference costs by 60-80% using intelligent 3-layer caching (exact + semantic + intent-based)**
 
